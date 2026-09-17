@@ -28,7 +28,7 @@ Backend for a large-scale enterprise energy-management platform.
 - End-to-end data pipelines in Apache Airflow, processing multi-source datasets that feed core business functions.
 - Docker containerization and GitLab CI/CD across staging and production.
 
-### [Slovenské elektrárne](https://www.seas.sk/en) — Full-stack Developer
+### [Slovenské elektrárne](https://energetickesluzby.sk/) — Full-stack Developer
 
 `Jan 2023 – Apr 2023` · 4 mos · Contract · Bratislava
 
@@ -44,10 +44,6 @@ Sole developer on an internal full-stack application.
 Widening out from backend and data-pipeline work into CS fundamentals.
 
 **CS50x, Harvard via edX** · Introduction to Computer Science — [certificate](https://certificates.cs50.io/35ff9056-2ded)
-
-## Currently
-
-Reading *Designing Data-Intensive Applications*. Learning Go.
 
 ## Contact
 
