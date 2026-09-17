@@ -4,9 +4,11 @@
   <img alt="Matúš Maruščák — Python backend developer" src="assets/header-dark.svg" width="100%">
 </picture>
 
-Python backend developer from Slovakia, now studying Informatics at MFF UK (Charles University) in Prague.
+Python backend developer from Slovakia, now studying Informatics at [MFF UK](https://www.mff.cuni.cz/en) (Charles University) in Prague.
 
 I like the quiet parts of a system — pipelines, schemas, the services that have to not-break at 3am.
+
+**Open to backend / data-engineering roles and internships in Prague or remote.** → [maruscak.matus@gmail.com](mailto:maruscak.matus@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
@@ -14,44 +16,39 @@ I like the quiet parts of a system — pipelines, schemas, the services that hav
   <img alt="Pipeline: sources → Airflow → PostgreSQL → services. Stack: Python, Airflow, PostgreSQL, SQLAlchemy, Docker, GitLab CI/CD, AWS, Flask" src="assets/stack-dark.svg" width="100%">
 </picture>
 
-### Where I've worked
+## Experience
 
-<details>
-<summary><b>FUERGY</b> — backend developer, energy-tech (Žilina)</summary>
+### [FUERGY](https://www.fuergy.com) — Software Developer
 
-<br>
+`Jul 2023 – Sep 2026` · 3 yrs 3 mos · Part-time, hybrid · Žilina
 
-Backend for a large-scale energy-management platform.
+Backend for a large-scale enterprise energy-management platform.
 
-- Python services over PostgreSQL/TimescaleDB with SQLAlchemy.
-- End-to-end data pipelines in Apache Airflow, feeding core business functions.
-- Testing and deployment through Git, Docker, and GitLab CI/CD.
+- Python services over PostgreSQL/TimescaleDB with SQLAlchemy, handling real-time operational data.
+- End-to-end data pipelines in Apache Airflow, processing multi-source datasets that feed core business functions.
+- Docker containerization and GitLab CI/CD across staging and production.
 
-</details>
+### [Slovenské elektrárne](https://www.seas.sk/en) — Full-stack Developer
 
-<details>
-<summary><b>Slovenské elektrárne</b> — full-stack developer (Bratislava)</summary>
+`Jan 2023 – Apr 2023` · 4 mos · Contract · Bratislava
 
-<br>
+Sole developer on an internal full-stack application.
 
-Built and deployed a full-stack app solo — picked the stack, wrote it, took it to production.
+- Chose the stack (Python, Flask, AWS EC2) and took it from zero to production in under four months.
+- Owned every technical and architectural decision, from problem definition to deployment.
 
-- Python, Flask, AWS EC2 on the back; JavaScript, HTML, CSS on the front.
-- Owned it from problem definition to finished, deployed product.
+## Education
 
-</details>
+**MFF UK, Charles University** · Informatics, first year · `Sep 2026 – present`
 
-<details>
-<summary><b>CS50x</b> — Harvard via edX</summary>
+Widening out from backend and data-pipeline work into CS fundamentals.
 
-<br>
+**CS50x, Harvard via edX** · Introduction to Computer Science — [certificate](https://certificates.cs50.io/35ff9056-2ded)
 
-Introduction to Computer Science — [certificate](https://certificates.cs50.io/35ff9056-2ded).
+## Currently
 
-</details>
+Reading *Designing Data-Intensive Applications*. Learning Go.
 
-### Currently
+## Contact
 
-First-year Informatics student at MFF UK, Prague — widening out from backend and data-pipeline work into CS fundamentals. Reading *Designing Data-Intensive Applications*, poking at Go on the side.
-
-📫 maruscak.matus@gmail.com · [LinkedIn](https://www.linkedin.com/in/matúš-maruščák/)
+[maruscak.matus@gmail.com](mailto:maruscak.matus@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mat%C3%BA%C5%A1-maru%C5%A1%C4%8D%C3%A1k/)
