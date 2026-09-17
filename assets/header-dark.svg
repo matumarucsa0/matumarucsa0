@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Terminal: Matus Maruscak, Python backend developer">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.20"/>
+      <stop offset="55%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0.14"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="36" y="88" width="840" height="22"><animate attributeName="width" from="0" to="840" dur="0.65s" begin="0.15s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="36" y="118" width="840" height="22"><animate attributeName="width" from="0" to="840" dur="0.65s" begin="0.85s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="36" y="160" width="840" height="22"><animate attributeName="width" from="0" to="840" dur="0.65s" begin="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="36" y="190" width="840" height="22"><animate attributeName="width" from="0" to="840" dur="0.65s" begin="2.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="36" y="220" width="840" height="22"><animate attributeName="width" from="0" to="840" dur="0.65s" begin="3.0s" fill="freeze"/></rect></clipPath>
+    <style>
+      .mono{font-family:ui-monospace,"SFMono-Regular","JetBrains Mono","Menlo","Consolas",monospace}
+      .fg{fill:#e6edf3}.dim{fill:#8b949e}.acc{fill:#58a6ff}.grn{fill:#3fb950}.ylw{fill:#d29922}
+      .cur{animation:blink 1.1s steps(1) 3.7s infinite both;opacity:0}
+      @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+      .fade{animation:fade .5s ease-out both}
+      @keyframes fade{from{opacity:0}to{opacity:1}}
+      @media (prefers-reduced-motion:reduce){
+        .cur,.fade{animation:none;opacity:1}
+      }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="278" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="898" height="278" rx="12" fill="url(#glow)"/>
+  <path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v31H1z" fill="#161b22"/>
+  <line x1="1" y1="44" x2="899" y2="44" stroke="#30363d"/>
+  <circle cx="26" cy="23" r="6" fill="#ff5f56"/><circle cx="48" cy="23" r="6" fill="#ffbd2e"/><circle cx="70" cy="23" r="6" fill="#27c93f"/>
+  <text class="mono dim" x="450" y="28" font-size="13" text-anchor="middle">matus@portfolio: ~</text>
+
+  <g clip-path="url(#c1)"><text class="mono" x="36" y="104" font-size="15"><tspan class="grn">$</tspan><tspan class="fg" dx="8">whoami</tspan></text></g>
+  <g clip-path="url(#c2)"><text class="mono fg" x="36" y="134" font-size="15">Matúš Maruščák <tspan class="dim">— Python backend developer</tspan></text></g>
+  <g clip-path="url(#c3)"><text class="mono" x="36" y="176" font-size="15"><tspan class="grn">$</tspan><tspan class="fg" dx="8">cat now.txt</tspan></text></g>
+  <g clip-path="url(#c4)"><text class="mono fg" x="36" y="206" font-size="15"><tspan class="acc">→</tspan> Informatics @ MFF UK, Prague</text></g>
+  <g clip-path="url(#c5)"><text class="mono fg" x="36" y="236" font-size="15"><tspan class="acc">→</tspan> Pipelines, Postgres, and services that don't wake you at 3am</text></g>
+  <rect class="cur" x="36" y="252" width="9" height="17" fill="#58a6ff"/>
+</svg>
